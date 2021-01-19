@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bitcoin Ticker</string>
+    <string name="base_url">https://blockchain.info/</string>
+    <string name="price_text_canada">%s BTC/CAD</string>
+    <string name="price_text_us">%s BTC/USD</string>
+    <string name="price_text_europe">%s BTC/EUR</string>
+</resources>
